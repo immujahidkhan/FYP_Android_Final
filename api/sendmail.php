@@ -1,5 +1,4 @@
 <?php
-//$email= "mytenure007@gmail.com";
 $email= $_GET['email'];;
 
 require '../PHPMailer-master/PHPMailerAutoload.php';
